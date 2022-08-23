@@ -1,0 +1,16 @@
+.rodape{
+    background-image: url('../imagem/rodape.jpg');
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.branco{
+    color: #ffff;
+    padding: 15px;
+}
+
+.centralizado{
+    text-align: center;
+    color: #ffff;
+}
